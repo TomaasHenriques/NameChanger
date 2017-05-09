@@ -17,4 +17,5 @@ Diretório final:
 Para onde elas vão com o nome formatado
 
 ComboBox:
-No caso da existência de matriculas de difrentes localidades, em caso de esta opção não ser utilizada em vez de um nome vai aparecer 0
+No caso da existência de matriculas de difrentes localidades
+Se esta opção não for utilizada em vez de um nome vai aparecer 0
